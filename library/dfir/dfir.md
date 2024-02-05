@@ -1,14 +1,9 @@
 ---
 title: Digital Forensics and Incident Response (DFIR)
 layout: default
-# has_children: true
+has_children: true
 nav_order: 3
 ---
-
-{: .note-title }
-> Content Under Construction
->
-> This is is current under construction. 😃
 
 # Digital Forensics and Incident Response
 
