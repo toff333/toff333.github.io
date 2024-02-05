@@ -8,9 +8,6 @@ grand_parent: Artifacts
 # Jump Lists
 {: .no_toc }
 
-Table of Contents
-{: .no_toc .text-delta }
-
 Jump Lists are a Windows Taskbar feature that gives the user quick access to recently accessed application files and actions.
 
 Jump Lists were introduced in Windows 7
@@ -20,6 +17,9 @@ There are multiple variants of Jump Lists:
 * AutomaticDestinations (*.automaticDestinations-ms) files
 * CustomDestinations (*.customDestinations-ms) files
 * Explorer StartPage2 ProgramsCache Registry values
+
+Table of Contents
+{: .no_toc .text-delta }
 
 - TOC
 {:toc}

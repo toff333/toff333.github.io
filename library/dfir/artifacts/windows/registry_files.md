@@ -8,11 +8,11 @@ grand_parent: Artifacts
 # Windows Registry Files
 {: .no_toc }
 
-Table of Contents
-{: .no_toc .text-delta }
-
 The Windows Registry is a hierarchical database that stores various settings
 for the Windows operating system and applications.
+
+Table of Contents
+{: .no_toc .text-delta }
 
 - TOC
 {:toc}
