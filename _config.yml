@@ -7,4 +7,9 @@ url: https://toff333.github.io/
 aux_links:
   chriszbga: https://chriszubiaga.github.io/
 
+callouts:
+  note:
+    title: Note
+    color: blue
+
 
